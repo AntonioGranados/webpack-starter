@@ -1,0 +1,11 @@
+/**Este es el estilo del main**/
+
+html,
+body {
+    background-color: gray;
+}
+
+img {
+    height: 150px;
+    width: 300px;
+}
